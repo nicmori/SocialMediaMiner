@@ -118,10 +118,6 @@ nx.draw_networkx_edges(GG, pos, alpha=0.4)
 plt.show()
 print ('Degree Distribution Histogram done')
 
-#CHOOSE TWO:
-#centrality: degree, eigenvector, katz, pagerank, betweenness, closeness, group
-#transitivity, reciprocity, similarity (structural, regular)
-
 #FIRST NETWORK MEASURE
 print("first network measure")
 print("transitivity:")
